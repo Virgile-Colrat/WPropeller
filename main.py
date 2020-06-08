@@ -1,6 +1,10 @@
-import profile.py
+import profile
 #creates the data
-linearRes=100
+resolutionX=100
+resolutionZ=100
+#profile.ComputeEntireProfile(resolutionX)
+#profile.ComputeWidths()
+profile.ComputeProfileY(1)
 #creates the G-code
 
 
